@@ -4,5 +4,15 @@
     "url": "https://www.google.com/",
     "version": 1,
     "automatic": false
+  }, {
+    "name": "Test Name 02",
+    "url": "https://www.bing.com/",
+    "version": 1,
+    "automatic": true
+  }, {
+    "name": "Test Name 03",
+    "url": "https://www.yahoo.com/",
+    "version": 2,
+    "automatic": false
   }
 ]
