@@ -4,18 +4,21 @@
     "name": "Test Name 01",
     "url": "https://www.google.com/",
     "version": 1,
-    "automatic": false
+    "automatic": false,
+    "category": "WFM"
   }, {
     "id": "02",
     "name": "Test Name 02",
     "url": "https://www.bing.com/",
     "version": 1,
-    "automatic": true
+    "automatic": true,
+    "category": "WFM"
   }, {
     "id": "03",
     "name": "Test Name 03",
     "url": "https://www.yahoo.com/",
     "version": 2,
-    "automatic": false
+    "automatic": false,
+    "category": "SMART_FORMS"
   }
 ]
